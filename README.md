@@ -64,9 +64,8 @@
        		<input type="reset" value="重置" style="height: 33px; width: 78px" > 
        	</div>
 	</div>
-	</div>
+	
     
 </form>
     
-</body>
-</html>
+
