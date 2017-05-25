@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
 <html>
 <head>
@@ -51,7 +51,7 @@
 
 	<div>
 	<form method="post" action="login">
-    <div id="div1"><img src="images/2786001_152906119000_2.jpg" /></div> 
+    <div id="div1"><img src="../images/2786001_152906119000_2.jpg" /></div> 
     
     <div id="box" class="easyui-panel" style="width: 419px;height: 384px;padding:60px 70px;opacity:0.8;">
     	<h2 style="color:green">用户登录-SMS信息管理系统</h2>
